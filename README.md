@@ -1,34 +1,27 @@
 ## Instruction on MacOS
 
-## 1. Run Backend
-1.0 change directory to Backend folder
-1.1 Install dependencies from requirement.txt - your IDE should automatically suggest.
-
-1.2. change sql URI in file 'config.py' by this format: 
+## Run Backend
+1. Change directory to Backend folder
+2. Install dependencies from requirement.txt - your IDE should automatically suggest.
+3. Change SQL URI in file 'config.py' by this format: 
 
 mysql://username:password@localhost:3306/databasename
 
-**Make sure you have mysql installed and have a local instance running**
+** Make sure you have mysql installed and have a local instance running **
 
-1.3 run these commands in terminal
+4. run these commands in terminal
 
 `flask db migrate`
 
 `flask db upgrade`
 
-1.4. run the 'run.py' file using this command:
+5. run the 'run.py' file using this command:
 
 `python3 run.py runserver`
 
 or 
 
 `py run.py runserver`
-
-1.3. Initialize and set up the schema of the db
-`flask db init`
-
-1.4. Finally run the server
-`flask run`
 
 backend will start running. note the url. make sure it is the same url in frontent app.tsx file
 
@@ -39,6 +32,8 @@ backend will start running. note the url. make sure it is the same url in fronte
 `npm install`
 
 `npm run dev`
+
+** Make sure you installed NodeJS in your computer before install npm ** 
 
 ## Note:
 For web admin, you need to edit directly in SQL
