@@ -7,7 +7,7 @@
 
 mysql://username:password@localhost:3306/databasename
 
-** Make sure you have mysql installed and have a local instance running **
+* Make sure you have mysql installed and have a local instance running *
 
 4. run these commands in terminal
 
@@ -33,7 +33,7 @@ backend will start running. note the url. make sure it is the same url in fronte
 
 `npm run dev`
 
-* * Make sure you installed NodeJS in your computer before install npm * * 
+* Make sure you installed NodeJS in your computer before install npm * 
 
 ## Note:
 For web admin, you need to edit directly in SQL
