@@ -1,6 +1,6 @@
 ## Instruction on MacOS
 
-### Run Backend
+### 1. Run Backend
 1. Change directory to Backend folder
 2. Install dependencies from requirement.txt - your IDE should automatically suggest.
 3. Change SQL URI in file 'config.py' by this format: 
@@ -25,7 +25,7 @@ or
 
   _backend will start running. note the url. make sure it is the same url in frontent app.tsx file_
 
-### Run Frontend
+### 2. Run Frontend
 1. Open a new terminal to run frontend simultaneously with Backend parts above
 2. Change directory to Frontend folder
 3. Running these commands will start the frontend:
