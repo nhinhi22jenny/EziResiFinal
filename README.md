@@ -25,9 +25,10 @@ or
 
 backend will start running. note the url. make sure it is the same url in frontent app.tsx file
 
-### 2. Run Frontend
-   2.1 Open a new terminal to run frontend simultaneously with Backend parts above
-   2.2 Running these commands will start the frontend:
+### Run Frontend
+1. Open a new terminal to run frontend simultaneously with Backend parts above
+2. Change directory to Frontend folder
+3. Running these commands will start the frontend:
 
 `npm install`
 
