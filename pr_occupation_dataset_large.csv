@@ -1,0 +1,301 @@
+Occupation,Skills,English Level,Location Preference,Course Chosen
+Architect,"['Construction Management', 'Building Design', '3D Modeling', 'AutoCAD']",Intermediate,Western Australia,Master of Architecture
+Accountant,"['Budgeting', 'Taxation']",Fluent,Victoria,Bachelor of Accounting
+Civil Engineer,"['Cost Estimation', 'AutoCAD', 'Structural Analysis']",Basic,New South Wales,Bachelor of Civil Engineering
+Civil Engineer,"['AutoCAD', 'Structural Analysis', 'Cost Estimation']",Fluent,Regional Australia,Bachelor of Civil Engineering
+Software Engineer,"['Machine Learning', 'AWS', 'Python', 'Java']",Fluent,Victoria,Master of Computer Science
+Mechanical Engineer,"['Thermodynamics', 'SolidWorks', 'Mechanical Design', 'Fluid Dynamics']",Advanced,South Australia,Bachelor of Mechanical Engineering
+Graphic Designer,"['Illustrator', 'InDesign']",Advanced,Victoria,Bachelor of Graphic Design
+Electrical Engineer,"['Circuit Design', 'Embedded Systems']",Fluent,Northern Territory,Bachelor of Electrical Engineering
+Architect,"['Building Design', 'Construction Management', 'AutoCAD', '3D Modeling']",Intermediate,Victoria,Master of Architecture
+Graphic Designer,"['UI/UX Design', 'Adobe Photoshop', 'Illustrator']",Fluent,Western Australia,Bachelor of Graphic Design
+Registered Nurse,"['Medication Administration', 'Patient Care', 'Clinical Assessment']",Fluent,South Australia,Bachelor of Nursing
+Mechanical Engineer,"['Thermodynamics', 'Mechanical Design']",Advanced,Regional Australia,Bachelor of Mechanical Engineering
+Data Analyst,"['SQL', 'Statistics', 'R', 'Data Visualization']",Basic,ACT,Graduate Diploma in Data Science
+Registered Nurse,"['Clinical Assessment', 'Medication Administration', 'Patient Care']",Basic,Northern Territory,Bachelor of Nursing
+Project Manager,"['Project Planning', 'Scrum']",Intermediate,New South Wales,Master of Project Management
+Data Analyst,"['Data Visualization', 'Statistics', 'Python', 'R']",Fluent,Northern Territory,Graduate Diploma in Data Science
+Graphic Designer,"['UI/UX Design', 'InDesign', 'Illustrator', 'Adobe Photoshop']",Basic,Victoria,Bachelor of Graphic Design
+Architect,"['AutoCAD', 'Building Design']",Basic,South Australia,Master of Architecture
+Graphic Designer,"['Adobe Photoshop', 'InDesign', 'Illustrator']",Intermediate,Tasmania,Bachelor of Graphic Design
+ICT Business Analyst,"['SQL', 'Business Process Modeling']",Intermediate,ACT,Master of Business Analytics
+Project Manager,"['Scrum', 'Risk Management', 'Team Management']",Advanced,Tasmania,Master of Project Management
+Project Manager,"['Risk Management', 'Scrum']",Fluent,New South Wales,Master of Project Management
+Registered Nurse,"['Clinical Assessment', 'Patient Care']",Advanced,Regional Australia,Bachelor of Nursing
+Network Administrator,"['Network Security', 'Cloud Computing', 'Cisco Routers', 'Troubleshooting']",Intermediate,Regional Australia,Graduate Diploma in Network Security
+Data Analyst,"['Python', 'Statistics', 'SQL', 'Data Visualization']",Fluent,Tasmania,Graduate Diploma in Data Science
+Architect,"['Building Design', 'AutoCAD', 'Construction Management', '3D Modeling']",Fluent,South Australia,Master of Architecture
+Mechanical Engineer,"['Fluid Dynamics', 'Mechanical Design', 'SolidWorks', 'Thermodynamics']",Basic,South Australia,Bachelor of Mechanical Engineering
+Teacher,"['Classroom Management', 'Lesson Planning']",Fluent,Victoria,Bachelor of Education
+Graphic Designer,"['Adobe Photoshop', 'InDesign', 'UI/UX Design']",Basic,Western Australia,Bachelor of Graphic Design
+Early Childhood Teacher,"['Curriculum Development', 'Lesson Planning']",Advanced,ACT,Graduate Diploma in Early Childhood
+Civil Engineer,"['Project Management', 'Cost Estimation']",Intermediate,Northern Territory,Bachelor of Civil Engineering
+Registered Nurse,"['Patient Care', 'Medication Administration']",Intermediate,Victoria,Bachelor of Nursing
+Network Administrator,"['Troubleshooting', 'Network Security', 'Cloud Computing']",Advanced,Western Australia,Graduate Diploma in Network Security
+ICT Business Analyst,"['Agile Methodologies', 'Business Process Modeling', 'Systems Analysis', 'SQL']",Basic,New South Wales,Master of Business Analytics
+Electrical Engineer,"['Power Systems', 'Embedded Systems', 'Circuit Design', 'Matlab']",Basic,Western Australia,Bachelor of Electrical Engineering
+Data Analyst,"['SQL', 'Python', 'Data Visualization']",Intermediate,Tasmania,Graduate Diploma in Data Science
+Data Analyst,"['SQL', 'Python', 'Data Visualization', 'Statistics']",Advanced,Western Australia,Graduate Diploma in Data Science
+Software Engineer,"['AWS', 'Machine Learning', 'Java', 'C++']",Basic,Victoria,Master of Computer Science
+Network Administrator,"['Network Security', 'Cisco Routers']",Intermediate,Tasmania,Graduate Diploma in Network Security
+Registered Nurse,"['Clinical Assessment', 'Medication Administration', 'Emergency Response', 'Patient Care']",Fluent,New South Wales,Bachelor of Nursing
+Graphic Designer,"['Adobe Photoshop', 'Illustrator', 'UI/UX Design']",Basic,Tasmania,Bachelor of Graphic Design
+Mechanical Engineer,"['Thermodynamics', 'Mechanical Design', 'SolidWorks', 'Fluid Dynamics']",Basic,Queensland,Bachelor of Mechanical Engineering
+Marketing Specialist,"['Market Research', 'SEO']",Intermediate,Northern Territory,Bachelor of Marketing
+ICT Business Analyst,"['Agile Methodologies', 'Systems Analysis', 'SQL']",Fluent,Regional Australia,Master of Business Analytics
+ICT Business Analyst,"['Business Process Modeling', 'Systems Analysis']",Intermediate,Western Australia,Master of Business Analytics
+Electrical Engineer,"['Power Systems', 'Embedded Systems', 'Circuit Design', 'Matlab']",Basic,Northern Territory,Bachelor of Electrical Engineering
+Marketing Specialist,"['Market Research', 'SEO', 'Content Creation', 'Digital Marketing']",Advanced,Regional Australia,Bachelor of Marketing
+Software Engineer,"['C++', 'Machine Learning']",Advanced,ACT,Master of Computer Science
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Fluent,Western Australia,Graduate Diploma in Early Childhood
+Registered Nurse,"['Emergency Response', 'Clinical Assessment']",Basic,Northern Territory,Bachelor of Nursing
+Architect,"['AutoCAD', '3D Modeling', 'Building Design', 'Construction Management']",Basic,Western Australia,Master of Architecture
+Registered Nurse,"['Patient Care', 'Clinical Assessment', 'Emergency Response']",Fluent,Western Australia,Bachelor of Nursing
+Civil Engineer,"['AutoCAD', 'Cost Estimation', 'Structural Analysis', 'Project Management']",Advanced,Victoria,Bachelor of Civil Engineering
+Software Engineer,"['AWS', 'C++', 'Java', 'Machine Learning']",Fluent,ACT,Master of Computer Science
+Architect,"['Building Design', '3D Modeling']",Fluent,New South Wales,Master of Architecture
+Mechanical Engineer,"['Fluid Dynamics', 'SolidWorks']",Intermediate,Tasmania,Bachelor of Mechanical Engineering
+Architect,"['Building Design', 'AutoCAD', '3D Modeling', 'Construction Management']",Intermediate,ACT,Master of Architecture
+Data Analyst,"['Python', 'Data Visualization']",Intermediate,New South Wales,Graduate Diploma in Data Science
+Accountant,"['Budgeting', 'Taxation']",Fluent,Queensland,Bachelor of Accounting
+Software Engineer,"['C++', 'Java', 'Python', 'Machine Learning']",Basic,ACT,Master of Computer Science
+Civil Engineer,"['AutoCAD', 'Cost Estimation', 'Structural Analysis', 'Project Management']",Fluent,New South Wales,Bachelor of Civil Engineering
+Early Childhood Teacher,"['Curriculum Development', 'Childcare', 'Lesson Planning']",Fluent,Western Australia,Graduate Diploma in Early Childhood
+Civil Engineer,"['Project Management', 'Cost Estimation', 'AutoCAD', 'Structural Analysis']",Basic,Victoria,Bachelor of Civil Engineering
+Early Childhood Teacher,"['Curriculum Development', 'Childcare', 'Lesson Planning']",Advanced,Northern Territory,Graduate Diploma in Early Childhood
+Electrical Engineer,"['Matlab', 'Circuit Design', 'Embedded Systems']",Intermediate,Northern Territory,Bachelor of Electrical Engineering
+Project Manager,"['Risk Management', 'Scrum']",Advanced,ACT,Master of Project Management
+ICT Business Analyst,"['Systems Analysis', 'Agile Methodologies', 'SQL']",Advanced,Tasmania,Master of Business Analytics
+Project Manager,"['Project Planning', 'Risk Management', 'Team Management']",Intermediate,New South Wales,Master of Project Management
+Early Childhood Teacher,"['Curriculum Development', 'Lesson Planning', 'Childcare']",Fluent,Western Australia,Graduate Diploma in Early Childhood
+Marketing Specialist,"['Market Research', 'Content Creation']",Advanced,Western Australia,Bachelor of Marketing
+ICT Business Analyst,"['Business Process Modeling', 'SQL', 'Agile Methodologies']",Advanced,Northern Territory,Master of Business Analytics
+Civil Engineer,"['Structural Analysis', 'Project Management']",Advanced,Queensland,Bachelor of Civil Engineering
+Data Analyst,"['Python', 'Data Visualization', 'SQL', 'Statistics']",Intermediate,New South Wales,Graduate Diploma in Data Science
+ICT Business Analyst,"['Agile Methodologies', 'SQL']",Intermediate,Western Australia,Master of Business Analytics
+Mechanical Engineer,"['Mechanical Design', 'Thermodynamics', 'Fluid Dynamics']",Advanced,Northern Territory,Bachelor of Mechanical Engineering
+Architect,"['Construction Management', '3D Modeling', 'Building Design']",Advanced,ACT,Master of Architecture
+Registered Nurse,"['Emergency Response', 'Clinical Assessment']",Advanced,Regional Australia,Bachelor of Nursing
+Electrical Engineer,"['Power Systems', 'Circuit Design']",Advanced,Western Australia,Bachelor of Electrical Engineering
+Network Administrator,"['Network Security', 'Cisco Routers']",Fluent,Victoria,Graduate Diploma in Network Security
+Teacher,"['Classroom Management', 'Curriculum Development', 'Lesson Planning']",Advanced,Queensland,Bachelor of Education
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Fluent,Tasmania,Graduate Diploma in Early Childhood
+Project Manager,"['Team Management', 'Project Planning', 'Risk Management']",Advanced,Northern Territory,Master of Project Management
+Network Administrator,"['Cisco Routers', 'Network Security']",Fluent,Queensland,Graduate Diploma in Network Security
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Basic,Victoria,Graduate Diploma in Early Childhood
+Network Administrator,"['Network Security', 'Cisco Routers', 'Troubleshooting']",Intermediate,Queensland,Graduate Diploma in Network Security
+Project Manager,"['Team Management', 'Project Planning', 'Scrum']",Intermediate,Victoria,Master of Project Management
+Software Engineer,"['AWS', 'Python', 'C++', 'Java']",Basic,Western Australia,Master of Computer Science
+Early Childhood Teacher,"['Childcare', 'Lesson Planning', 'Curriculum Development']",Fluent,Regional Australia,Graduate Diploma in Early Childhood
+Project Manager,"['Team Management', 'Project Planning', 'Risk Management']",Advanced,ACT,Master of Project Management
+Project Manager,"['Scrum', 'Risk Management']",Basic,Northern Territory,Master of Project Management
+Electrical Engineer,"['Circuit Design', 'Embedded Systems', 'Matlab']",Fluent,Queensland,Bachelor of Electrical Engineering
+Early Childhood Teacher,"['Childcare', 'Curriculum Development']",Basic,Victoria,Graduate Diploma in Early Childhood
+Early Childhood Teacher,"['Lesson Planning', 'Curriculum Development', 'Childcare']",Basic,ACT,Graduate Diploma in Early Childhood
+Architect,"['3D Modeling', 'Building Design', 'Construction Management', 'AutoCAD']",Basic,Tasmania,Master of Architecture
+Project Manager,"['Team Management', 'Project Planning']",Fluent,Victoria,Master of Project Management
+Electrical Engineer,"['Matlab', 'Power Systems', 'Embedded Systems', 'Circuit Design']",Intermediate,Western Australia,Bachelor of Electrical Engineering
+Architect,"['AutoCAD', '3D Modeling', 'Building Design']",Fluent,Tasmania,Master of Architecture
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Fluent,New South Wales,Graduate Diploma in Early Childhood
+Graphic Designer,"['Illustrator', 'UI/UX Design', 'Adobe Photoshop']",Basic,South Australia,Bachelor of Graphic Design
+Data Analyst,"['SQL', 'Statistics', 'R', 'Python']",Fluent,Victoria,Graduate Diploma in Data Science
+Network Administrator,"['Troubleshooting', 'Network Security', 'Cloud Computing', 'Cisco Routers']",Advanced,ACT,Graduate Diploma in Network Security
+Electrical Engineer,"['Embedded Systems', 'Circuit Design', 'Power Systems']",Advanced,ACT,Bachelor of Electrical Engineering
+Accountant,"['Auditing', 'Budgeting', 'Financial Reporting', 'Taxation']",Intermediate,Northern Territory,Bachelor of Accounting
+Mechanical Engineer,"['Mechanical Design', 'Thermodynamics', 'Fluid Dynamics']",Basic,New South Wales,Bachelor of Mechanical Engineering
+Mechanical Engineer,"['Fluid Dynamics', 'Thermodynamics', 'Mechanical Design']",Basic,Regional Australia,Bachelor of Mechanical Engineering
+Mechanical Engineer,"['SolidWorks', 'Mechanical Design', 'Thermodynamics', 'Fluid Dynamics']",Basic,ACT,Bachelor of Mechanical Engineering
+Graphic Designer,"['UI/UX Design', 'Illustrator', 'InDesign', 'Adobe Photoshop']",Advanced,Tasmania,Bachelor of Graphic Design
+Software Engineer,"['Java', 'C++']",Fluent,Queensland,Master of Computer Science
+Architect,"['Building Design', '3D Modeling', 'AutoCAD', 'Construction Management']",Advanced,New South Wales,Master of Architecture
+Architect,"['3D Modeling', 'Building Design', 'AutoCAD', 'Construction Management']",Intermediate,New South Wales,Master of Architecture
+Graphic Designer,"['InDesign', 'Illustrator', 'Adobe Photoshop', 'UI/UX Design']",Basic,South Australia,Bachelor of Graphic Design
+Software Engineer,"['Machine Learning', 'Python']",Basic,Western Australia,Master of Computer Science
+Architect,"['3D Modeling', 'Building Design']",Intermediate,New South Wales,Master of Architecture
+Marketing Specialist,"['SEO', 'Digital Marketing', 'Market Research']",Fluent,ACT,Bachelor of Marketing
+Marketing Specialist,"['Digital Marketing', 'Content Creation']",Basic,New South Wales,Bachelor of Marketing
+Mechanical Engineer,"['Fluid Dynamics', 'Mechanical Design', 'SolidWorks']",Intermediate,Western Australia,Bachelor of Mechanical Engineering
+Network Administrator,"['Network Security', 'Troubleshooting', 'Cisco Routers']",Advanced,Tasmania,Graduate Diploma in Network Security
+Architect,"['Building Design', 'Construction Management', 'AutoCAD']",Basic,ACT,Master of Architecture
+Accountant,"['Payroll', 'Financial Reporting']",Intermediate,New South Wales,Bachelor of Accounting
+Software Engineer,"['Python', 'C++', 'Java', 'AWS']",Advanced,Northern Territory,Master of Computer Science
+Data Analyst,"['Statistics', 'Python', 'SQL']",Advanced,Victoria,Graduate Diploma in Data Science
+Network Administrator,"['Cisco Routers', 'Cloud Computing', 'Network Security', 'Troubleshooting']",Intermediate,Western Australia,Graduate Diploma in Network Security
+Graphic Designer,"['InDesign', 'Adobe Photoshop', 'UI/UX Design', 'Illustrator']",Basic,Queensland,Bachelor of Graphic Design
+Registered Nurse,"['Patient Care', 'Clinical Assessment']",Advanced,Regional Australia,Bachelor of Nursing
+Early Childhood Teacher,"['Curriculum Development', 'Lesson Planning', 'Childcare']",Intermediate,Tasmania,Graduate Diploma in Early Childhood
+Civil Engineer,"['Project Management', 'AutoCAD', 'Structural Analysis']",Advanced,Northern Territory,Bachelor of Civil Engineering
+Network Administrator,"['Troubleshooting', 'Cloud Computing']",Intermediate,Western Australia,Graduate Diploma in Network Security
+Network Administrator,"['Network Security', 'Cloud Computing']",Basic,Tasmania,Graduate Diploma in Network Security
+Software Engineer,"['Java', 'C++']",Intermediate,ACT,Master of Computer Science
+Architect,"['3D Modeling', 'AutoCAD', 'Building Design']",Advanced,Northern Territory,Master of Architecture
+Network Administrator,"['Troubleshooting', 'Cloud Computing']",Basic,Regional Australia,Graduate Diploma in Network Security
+Project Manager,"['Scrum', 'Risk Management', 'Team Management']",Advanced,Western Australia,Master of Project Management
+Project Manager,"['Project Planning', 'Team Management', 'Scrum']",Intermediate,Victoria,Master of Project Management
+Software Engineer,"['Java', 'Machine Learning', 'AWS', 'Python']",Intermediate,Northern Territory,Master of Computer Science
+Network Administrator,"['Cloud Computing', 'Network Security', 'Cisco Routers']",Intermediate,South Australia,Graduate Diploma in Network Security
+Civil Engineer,"['Structural Analysis', 'Cost Estimation', 'Project Management', 'AutoCAD']",Advanced,Victoria,Bachelor of Civil Engineering
+Teacher,"['Curriculum Development', 'Classroom Management', 'Lesson Planning']",Basic,South Australia,Bachelor of Education
+Electrical Engineer,"['Circuit Design', 'Matlab', 'Power Systems']",Advanced,Northern Territory,Bachelor of Electrical Engineering
+Teacher,"['Lesson Planning', 'Curriculum Development', 'Classroom Management']",Fluent,Regional Australia,Bachelor of Education
+ICT Business Analyst,"['SQL', 'Business Process Modeling', 'Systems Analysis']",Advanced,Queensland,Master of Business Analytics
+ICT Business Analyst,"['Systems Analysis', 'Agile Methodologies']",Basic,New South Wales,Master of Business Analytics
+Electrical Engineer,"['Circuit Design', 'Embedded Systems', 'Matlab']",Basic,Victoria,Bachelor of Electrical Engineering
+Early Childhood Teacher,"['Lesson Planning', 'Curriculum Development', 'Childcare']",Basic,Queensland,Graduate Diploma in Early Childhood
+Software Engineer,"['Java', 'C++', 'AWS', 'Python']",Intermediate,Northern Territory,Master of Computer Science
+Project Manager,"['Team Management', 'Scrum', 'Risk Management']",Intermediate,Tasmania,Master of Project Management
+Registered Nurse,"['Patient Care', 'Emergency Response', 'Medication Administration']",Basic,New South Wales,Bachelor of Nursing
+Teacher,"['Curriculum Development', 'Classroom Management', 'Lesson Planning']",Advanced,Northern Territory,Bachelor of Education
+Software Engineer,"['Python', 'AWS', 'Java']",Fluent,Tasmania,Master of Computer Science
+Civil Engineer,"['Cost Estimation', 'AutoCAD']",Fluent,Northern Territory,Bachelor of Civil Engineering
+Software Engineer,"['Java', 'Machine Learning', 'Python', 'C++']",Advanced,New South Wales,Master of Computer Science
+Project Manager,"['Scrum', 'Team Management']",Advanced,Western Australia,Master of Project Management
+Marketing Specialist,"['Market Research', 'Digital Marketing']",Basic,ACT,Bachelor of Marketing
+Graphic Designer,"['InDesign', 'UI/UX Design', 'Illustrator']",Intermediate,Northern Territory,Bachelor of Graphic Design
+Electrical Engineer,"['Power Systems', 'Circuit Design']",Basic,Victoria,Bachelor of Electrical Engineering
+Teacher,"['Lesson Planning', 'Classroom Management', 'Curriculum Development']",Intermediate,Victoria,Bachelor of Education
+Software Engineer,"['C++', 'Java', 'Python']",Intermediate,ACT,Master of Computer Science
+Graphic Designer,"['InDesign', 'UI/UX Design', 'Illustrator']",Basic,Queensland,Bachelor of Graphic Design
+Graphic Designer,"['Illustrator', 'InDesign', 'Adobe Photoshop', 'UI/UX Design']",Basic,Victoria,Bachelor of Graphic Design
+Graphic Designer,"['Adobe Photoshop', 'Illustrator', 'UI/UX Design', 'InDesign']",Advanced,ACT,Bachelor of Graphic Design
+Civil Engineer,"['Cost Estimation', 'Structural Analysis']",Intermediate,Victoria,Bachelor of Civil Engineering
+Data Analyst,"['R', 'Statistics', 'SQL', 'Data Visualization']",Intermediate,Tasmania,Graduate Diploma in Data Science
+Network Administrator,"['Troubleshooting', 'Network Security', 'Cisco Routers', 'Cloud Computing']",Intermediate,Northern Territory,Graduate Diploma in Network Security
+Architect,"['Building Design', 'AutoCAD', '3D Modeling', 'Construction Management']",Intermediate,Western Australia,Master of Architecture
+Software Engineer,"['C++', 'AWS', 'Machine Learning']",Basic,Victoria,Master of Computer Science
+Graphic Designer,"['Illustrator', 'Adobe Photoshop']",Basic,Queensland,Bachelor of Graphic Design
+Early Childhood Teacher,"['Curriculum Development', 'Childcare', 'Lesson Planning']",Fluent,Western Australia,Graduate Diploma in Early Childhood
+Data Analyst,"['R', 'SQL', 'Python']",Fluent,Tasmania,Graduate Diploma in Data Science
+Data Analyst,"['Statistics', 'Data Visualization']",Fluent,Regional Australia,Graduate Diploma in Data Science
+Graphic Designer,"['UI/UX Design', 'Adobe Photoshop', 'InDesign', 'Illustrator']",Advanced,New South Wales,Bachelor of Graphic Design
+Electrical Engineer,"['Embedded Systems', 'Circuit Design', 'Power Systems']",Intermediate,South Australia,Bachelor of Electrical Engineering
+Software Engineer,"['AWS', 'Java', 'C++', 'Python']",Advanced,South Australia,Master of Computer Science
+Project Manager,"['Scrum', 'Project Planning', 'Risk Management']",Fluent,Regional Australia,Master of Project Management
+Network Administrator,"['Troubleshooting', 'Cloud Computing']",Advanced,Tasmania,Graduate Diploma in Network Security
+Teacher,"['Classroom Management', 'Lesson Planning']",Basic,Western Australia,Bachelor of Education
+Project Manager,"['Scrum', 'Risk Management']",Basic,Regional Australia,Master of Project Management
+Early Childhood Teacher,"['Childcare', 'Curriculum Development']",Advanced,Northern Territory,Graduate Diploma in Early Childhood
+Marketing Specialist,"['Content Creation', 'SEO', 'Digital Marketing', 'Market Research']",Intermediate,Victoria,Bachelor of Marketing
+Civil Engineer,"['Cost Estimation', 'AutoCAD', 'Project Management']",Fluent,Queensland,Bachelor of Civil Engineering
+Civil Engineer,"['Structural Analysis', 'Project Management', 'Cost Estimation', 'AutoCAD']",Intermediate,Victoria,Bachelor of Civil Engineering
+Data Analyst,"['Data Visualization', 'Statistics', 'Python', 'SQL']",Fluent,New South Wales,Graduate Diploma in Data Science
+Architect,"['Construction Management', 'AutoCAD', '3D Modeling']",Basic,Western Australia,Master of Architecture
+Early Childhood Teacher,"['Curriculum Development', 'Lesson Planning', 'Childcare']",Basic,Queensland,Graduate Diploma in Early Childhood
+Graphic Designer,"['Adobe Photoshop', 'Illustrator', 'InDesign', 'UI/UX Design']",Intermediate,Regional Australia,Bachelor of Graphic Design
+Civil Engineer,"['AutoCAD', 'Project Management']",Advanced,Queensland,Bachelor of Civil Engineering
+Graphic Designer,"['InDesign', 'Adobe Photoshop']",Basic,ACT,Bachelor of Graphic Design
+Early Childhood Teacher,"['Lesson Planning', 'Curriculum Development', 'Childcare']",Fluent,Queensland,Graduate Diploma in Early Childhood
+Network Administrator,"['Troubleshooting', 'Cloud Computing']",Basic,Western Australia,Graduate Diploma in Network Security
+Registered Nurse,"['Medication Administration', 'Clinical Assessment']",Advanced,Regional Australia,Bachelor of Nursing
+Teacher,"['Curriculum Development', 'Lesson Planning', 'Classroom Management']",Advanced,Queensland,Bachelor of Education
+Project Manager,"['Risk Management', 'Project Planning', 'Scrum', 'Team Management']",Advanced,Queensland,Master of Project Management
+Teacher,"['Curriculum Development', 'Lesson Planning', 'Classroom Management']",Intermediate,Western Australia,Bachelor of Education
+Software Engineer,"['C++', 'Java', 'Machine Learning', 'Python']",Basic,Regional Australia,Master of Computer Science
+Teacher,"['Classroom Management', 'Lesson Planning']",Intermediate,Western Australia,Bachelor of Education
+Graphic Designer,"['Adobe Photoshop', 'UI/UX Design']",Intermediate,Northern Territory,Bachelor of Graphic Design
+Network Administrator,"['Cisco Routers', 'Troubleshooting', 'Cloud Computing']",Fluent,Queensland,Graduate Diploma in Network Security
+Electrical Engineer,"['Embedded Systems', 'Circuit Design', 'Matlab']",Fluent,Western Australia,Bachelor of Electrical Engineering
+Network Administrator,"['Cloud Computing', 'Network Security', 'Troubleshooting']",Fluent,Queensland,Graduate Diploma in Network Security
+Accountant,"['Financial Reporting', 'Budgeting', 'Auditing', 'Taxation']",Fluent,ACT,Bachelor of Accounting
+Data Analyst,"['Python', 'Data Visualization']",Intermediate,Western Australia,Graduate Diploma in Data Science
+Early Childhood Teacher,"['Childcare', 'Lesson Planning', 'Curriculum Development']",Fluent,South Australia,Graduate Diploma in Early Childhood
+Registered Nurse,"['Clinical Assessment', 'Patient Care', 'Emergency Response']",Fluent,Tasmania,Bachelor of Nursing
+Graphic Designer,"['Adobe Photoshop', 'Illustrator', 'UI/UX Design', 'InDesign']",Basic,Tasmania,Bachelor of Graphic Design
+Civil Engineer,"['Structural Analysis', 'Cost Estimation']",Advanced,New South Wales,Bachelor of Civil Engineering
+Marketing Specialist,"['Content Creation', 'SEO', 'Digital Marketing', 'Market Research']",Basic,South Australia,Bachelor of Marketing
+Mechanical Engineer,"['Thermodynamics', 'Fluid Dynamics']",Basic,Victoria,Bachelor of Mechanical Engineering
+Data Analyst,"['Python', 'SQL']",Basic,Regional Australia,Graduate Diploma in Data Science
+Project Manager,"['Scrum', 'Project Planning', 'Risk Management', 'Team Management']",Basic,South Australia,Master of Project Management
+ICT Business Analyst,"['Business Process Modeling', 'Systems Analysis', 'SQL', 'Agile Methodologies']",Basic,Northern Territory,Master of Business Analytics
+Mechanical Engineer,"['Mechanical Design', 'SolidWorks', 'Thermodynamics']",Basic,Victoria,Bachelor of Mechanical Engineering
+Electrical Engineer,"['Power Systems', 'Circuit Design', 'Matlab', 'Embedded Systems']",Intermediate,Tasmania,Bachelor of Electrical Engineering
+Accountant,"['Financial Reporting', 'Taxation']",Basic,Northern Territory,Bachelor of Accounting
+Marketing Specialist,"['SEO', 'Content Creation', 'Digital Marketing']",Intermediate,South Australia,Bachelor of Marketing
+Data Analyst,"['SQL', 'Python', 'R']",Fluent,Western Australia,Graduate Diploma in Data Science
+Marketing Specialist,"['Content Creation', 'SEO', 'Market Research', 'Digital Marketing']",Intermediate,Regional Australia,Bachelor of Marketing
+Accountant,"['Budgeting', 'Financial Reporting', 'Payroll']",Advanced,South Australia,Bachelor of Accounting
+Marketing Specialist,"['Market Research', 'SEO']",Advanced,Queensland,Bachelor of Marketing
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Intermediate,Western Australia,Graduate Diploma in Early Childhood
+Data Analyst,"['SQL', 'Statistics', 'R']",Basic,Northern Territory,Graduate Diploma in Data Science
+Graphic Designer,"['Adobe Photoshop', 'UI/UX Design']",Basic,Regional Australia,Bachelor of Graphic Design
+ICT Business Analyst,"['Business Process Modeling', 'SQL']",Fluent,ACT,Master of Business Analytics
+Marketing Specialist,"['Digital Marketing', 'SEO', 'Content Creation']",Basic,Tasmania,Bachelor of Marketing
+Mechanical Engineer,"['Fluid Dynamics', 'Thermodynamics']",Fluent,Regional Australia,Bachelor of Mechanical Engineering
+Teacher,"['Classroom Management', 'Curriculum Development']",Fluent,New South Wales,Bachelor of Education
+Marketing Specialist,"['Content Creation', 'Digital Marketing', 'Market Research']",Intermediate,Western Australia,Bachelor of Marketing
+Accountant,"['Budgeting', 'Taxation']",Basic,Queensland,Bachelor of Accounting
+Project Manager,"['Risk Management', 'Team Management', 'Project Planning']",Basic,Regional Australia,Master of Project Management
+Graphic Designer,"['InDesign', 'Illustrator', 'Adobe Photoshop']",Basic,Regional Australia,Bachelor of Graphic Design
+Early Childhood Teacher,"['Curriculum Development', 'Childcare', 'Lesson Planning']",Basic,Western Australia,Graduate Diploma in Early Childhood
+Graphic Designer,"['Adobe Photoshop', 'UI/UX Design']",Advanced,Regional Australia,Bachelor of Graphic Design
+Data Analyst,"['R', 'Python', 'Data Visualization', 'Statistics']",Advanced,Tasmania,Graduate Diploma in Data Science
+Accountant,"['Financial Reporting', 'Payroll']",Basic,Western Australia,Bachelor of Accounting
+Accountant,"['Payroll', 'Taxation', 'Budgeting', 'Financial Reporting']",Advanced,ACT,Bachelor of Accounting
+Civil Engineer,"['Project Management', 'Cost Estimation']",Basic,Queensland,Bachelor of Civil Engineering
+Mechanical Engineer,"['Mechanical Design', 'Thermodynamics']",Intermediate,Northern Territory,Bachelor of Mechanical Engineering
+ICT Business Analyst,"['Business Process Modeling', 'SQL']",Fluent,Western Australia,Master of Business Analytics
+Registered Nurse,"['Emergency Response', 'Clinical Assessment', 'Patient Care']",Intermediate,Northern Territory,Bachelor of Nursing
+Graphic Designer,"['InDesign', 'Illustrator', 'UI/UX Design', 'Adobe Photoshop']",Fluent,Western Australia,Bachelor of Graphic Design
+Teacher,"['Lesson Planning', 'Classroom Management', 'Curriculum Development']",Advanced,Western Australia,Bachelor of Education
+Graphic Designer,"['InDesign', 'Illustrator', 'Adobe Photoshop', 'UI/UX Design']",Basic,Western Australia,Bachelor of Graphic Design
+Early Childhood Teacher,"['Curriculum Development', 'Childcare']",Basic,ACT,Graduate Diploma in Early Childhood
+ICT Business Analyst,"['Business Process Modeling', 'SQL', 'Systems Analysis']",Intermediate,Western Australia,Master of Business Analytics
+Architect,"['Building Design', 'Construction Management']",Intermediate,South Australia,Master of Architecture
+Marketing Specialist,"['Content Creation', 'SEO', 'Digital Marketing']",Advanced,Western Australia,Bachelor of Marketing
+Graphic Designer,"['Adobe Photoshop', 'InDesign', 'UI/UX Design']",Fluent,Victoria,Bachelor of Graphic Design
+Early Childhood Teacher,"['Lesson Planning', 'Curriculum Development', 'Childcare']",Advanced,South Australia,Graduate Diploma in Early Childhood
+Software Engineer,"['AWS', 'Machine Learning', 'C++']",Intermediate,Victoria,Master of Computer Science
+Civil Engineer,"['Cost Estimation', 'AutoCAD', 'Project Management']",Intermediate,Tasmania,Bachelor of Civil Engineering
+Mechanical Engineer,"['Mechanical Design', 'SolidWorks', 'Fluid Dynamics']",Intermediate,South Australia,Bachelor of Mechanical Engineering
+Accountant,"['Budgeting', 'Auditing', 'Taxation', 'Payroll']",Advanced,Regional Australia,Bachelor of Accounting
+Early Childhood Teacher,"['Curriculum Development', 'Childcare', 'Lesson Planning']",Fluent,Western Australia,Graduate Diploma in Early Childhood
+Architect,"['Construction Management', 'Building Design']",Fluent,New South Wales,Master of Architecture
+Civil Engineer,"['Project Management', 'Structural Analysis', 'AutoCAD']",Fluent,New South Wales,Bachelor of Civil Engineering
+Data Analyst,"['Statistics', 'SQL', 'Data Visualization', 'R']",Intermediate,ACT,Graduate Diploma in Data Science
+Graphic Designer,"['Adobe Photoshop', 'InDesign', 'UI/UX Design']",Basic,New South Wales,Bachelor of Graphic Design
+Data Analyst,"['SQL', 'R']",Advanced,ACT,Graduate Diploma in Data Science
+Electrical Engineer,"['Circuit Design', 'Power Systems']",Advanced,Tasmania,Bachelor of Electrical Engineering
+Teacher,"['Classroom Management', 'Lesson Planning', 'Curriculum Development']",Advanced,Victoria,Bachelor of Education
+Mechanical Engineer,"['Thermodynamics', 'Fluid Dynamics', 'SolidWorks', 'Mechanical Design']",Basic,Tasmania,Bachelor of Mechanical Engineering
+Marketing Specialist,"['Digital Marketing', 'Content Creation', 'SEO']",Fluent,Queensland,Bachelor of Marketing
+Registered Nurse,"['Patient Care', 'Emergency Response', 'Clinical Assessment']",Intermediate,Regional Australia,Bachelor of Nursing
+Software Engineer,"['Machine Learning', 'C++']",Intermediate,Tasmania,Master of Computer Science
+Early Childhood Teacher,"['Childcare', 'Lesson Planning']",Fluent,Tasmania,Graduate Diploma in Early Childhood
+Early Childhood Teacher,"['Lesson Planning', 'Childcare', 'Curriculum Development']",Fluent,South Australia,Graduate Diploma in Early Childhood
+Early Childhood Teacher,"['Curriculum Development', 'Lesson Planning', 'Childcare']",Intermediate,Tasmania,Graduate Diploma in Early Childhood
+Mechanical Engineer,"['SolidWorks', 'Thermodynamics', 'Fluid Dynamics', 'Mechanical Design']",Advanced,ACT,Bachelor of Mechanical Engineering
+Mechanical Engineer,"['Fluid Dynamics', 'Mechanical Design']",Fluent,Northern Territory,Bachelor of Mechanical Engineering
+Project Manager,"['Project Planning', 'Team Management', 'Scrum']",Basic,Northern Territory,Master of Project Management
+Mechanical Engineer,"['Thermodynamics', 'Fluid Dynamics', 'Mechanical Design']",Advanced,Western Australia,Bachelor of Mechanical Engineering
+Graphic Designer,"['InDesign', 'UI/UX Design', 'Adobe Photoshop', 'Illustrator']",Advanced,Western Australia,Bachelor of Graphic Design
+Graphic Designer,"['Illustrator', 'Adobe Photoshop', 'InDesign', 'UI/UX Design']",Fluent,Western Australia,Bachelor of Graphic Design
+ICT Business Analyst,"['Systems Analysis', 'SQL', 'Agile Methodologies']",Intermediate,Victoria,Master of Business Analytics
+Teacher,"['Curriculum Development', 'Classroom Management']",Advanced,Queensland,Bachelor of Education
+Software Engineer,"['Java', 'AWS', 'Python']",Advanced,Queensland,Master of Computer Science
+Data Analyst,"['SQL', 'Python']",Fluent,Regional Australia,Graduate Diploma in Data Science
+Teacher,"['Lesson Planning', 'Classroom Management', 'Curriculum Development']",Advanced,Victoria,Bachelor of Education
+Mechanical Engineer,"['SolidWorks', 'Thermodynamics', 'Mechanical Design']",Intermediate,New South Wales,Bachelor of Mechanical Engineering
+Graphic Designer,"['Illustrator', 'InDesign', 'UI/UX Design']",Basic,New South Wales,Bachelor of Graphic Design
+ICT Business Analyst,"['Systems Analysis', 'SQL', 'Business Process Modeling', 'Agile Methodologies']",Fluent,Western Australia,Master of Business Analytics
+Architect,"['AutoCAD', '3D Modeling', 'Construction Management']",Intermediate,Tasmania,Master of Architecture
+Teacher,"['Lesson Planning', 'Classroom Management']",Basic,South Australia,Bachelor of Education
+Graphic Designer,"['Adobe Photoshop', 'InDesign']",Basic,Western Australia,Bachelor of Graphic Design
+Project Manager,"['Risk Management', 'Project Planning']",Intermediate,Regional Australia,Master of Project Management
+Project Manager,"['Team Management', 'Risk Management']",Basic,ACT,Master of Project Management
+Registered Nurse,"['Patient Care', 'Emergency Response', 'Clinical Assessment']",Intermediate,Western Australia,Bachelor of Nursing
+Network Administrator,"['Network Security', 'Cloud Computing', 'Troubleshooting', 'Cisco Routers']",Fluent,Tasmania,Graduate Diploma in Network Security
+Electrical Engineer,"['Embedded Systems', 'Power Systems', 'Circuit Design']",Fluent,Regional Australia,Bachelor of Electrical Engineering
+Early Childhood Teacher,"['Childcare', 'Curriculum Development']",Basic,South Australia,Graduate Diploma in Early Childhood
+Early Childhood Teacher,"['Childcare', 'Curriculum Development', 'Lesson Planning']",Advanced,Regional Australia,Graduate Diploma in Early Childhood
+Network Administrator,"['Network Security', 'Cisco Routers', 'Troubleshooting']",Advanced,Northern Territory,Graduate Diploma in Network Security
+Graphic Designer,"['UI/UX Design', 'InDesign', 'Adobe Photoshop', 'Illustrator']",Fluent,South Australia,Bachelor of Graphic Design
+Electrical Engineer,"['Power Systems', 'Matlab', 'Embedded Systems']",Advanced,Victoria,Bachelor of Electrical Engineering
+Network Administrator,"['Cloud Computing', 'Cisco Routers', 'Network Security', 'Troubleshooting']",Advanced,New South Wales,Graduate Diploma in Network Security
+ICT Business Analyst,"['Systems Analysis', 'SQL', 'Agile Methodologies']",Intermediate,Victoria,Master of Business Analytics
+Mechanical Engineer,"['Fluid Dynamics', 'SolidWorks', 'Mechanical Design', 'Thermodynamics']",Fluent,Tasmania,Bachelor of Mechanical Engineering
+Electrical Engineer,"['Circuit Design', 'Power Systems', 'Embedded Systems', 'Matlab']",Basic,Western Australia,Bachelor of Electrical Engineering
+ICT Business Analyst,"['Business Process Modeling', 'Agile Methodologies']",Fluent,Western Australia,Master of Business Analytics
+Accountant,"['Payroll', 'Financial Reporting']",Advanced,Northern Territory,Bachelor of Accounting
+ICT Business Analyst,"['Systems Analysis', 'Agile Methodologies', 'SQL', 'Business Process Modeling']",Advanced,Western Australia,Master of Business Analytics
+Accountant,"['Payroll', 'Auditing', 'Taxation', 'Budgeting']",Fluent,Tasmania,Bachelor of Accounting
+Data Analyst,"['SQL', 'R', 'Data Visualization']",Advanced,Northern Territory,Graduate Diploma in Data Science
