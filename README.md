@@ -1,6 +1,6 @@
 ## Instruction on MacOS
 
-##1. Run Backend
+## 1. Run Backend
 1.0 change directory to Backend folder
 1.1 Install dependencies from requirement.txt - your IDE should automatically suggest.
 
@@ -18,11 +18,11 @@ mysql://username:password@localhost:3306/databasename
 
 1.4. run the 'run.py' file using this command:
 
-python3 run.py runserver
+`python3 run.py runserver`
 
 or 
 
-py run.py runserver
+`py run.py runserver`
 
 1.3. Initialize and set up the schema of the db
 `flask db init`
