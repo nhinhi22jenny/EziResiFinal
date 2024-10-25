@@ -1,4 +1,4 @@
-## Instruction on MacOS
+## Instruction for installation on MacOS
 
 ### 1. Run Backend
 1. Change directory to Backend folder
