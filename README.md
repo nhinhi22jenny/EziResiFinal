@@ -38,7 +38,11 @@ or
 
 ## Note:
 * For web admin, you need to edit directly in SQL
+  
 * For installation on Windows:
+
   Please remove these code line in the init.py file inside the Backend folder:
+
 `import pymysql`
+
 `pymysql.install_as_MySQLdb()`
