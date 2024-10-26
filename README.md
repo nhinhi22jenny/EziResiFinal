@@ -15,7 +15,7 @@
 
 `flask db upgrade`
 
-5. run the 'run.py' file using this command:
+5. run server on 'run.py' file using this command:
 
 `python3 run.py runserver`
 
