@@ -41,7 +41,7 @@ or
   
 * For installation on Windows:
 
-  Please remove these code line in the init.py file inside the Backend folder:
+  Please remove these code lines in the init.py file inside the Backend/app folder:
 
 `import pymysql`
 
